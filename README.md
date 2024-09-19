@@ -1,5 +1,5 @@
 # Securing-Azure-Storage-Account-Lab
-In the lab, you will learn how to secure your Azure storage against malicious or un-authorized access by configuring firewall rules to limit access to your storage account requests that originate from specified IP addresses or ranges, or from a list of subnets in an Azure Virtual Network (VNet). For more information about configuring firewall rules, see: https://learn.microsoft.com/en-us/azure/storage/common/storage-network-security?toc=/azure/storage/blobs/toc.json
+In the lab, you will learn how to secure your Azure storage against malicious or un-authorized access by configuring firewall rules to limit access to your storage account requests that originate from specified IP addresses or ranges, or from a list of subnets in an Azure Virtual Network (VNet) as the case may be. For more information about configuring firewall rules, see: https://learn.microsoft.com/en-us/azure/storage/common/storage-network-security?toc=/azure/storage/blobs/toc.json
 
 <h2>Platform Used</h2>
 
